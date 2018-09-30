@@ -1,6 +1,11 @@
 # python_bootcamp
 Annual 4 day workshop on Python
 
+## Install python
+In windows we'll use WinPython. 
+For 2018 class  We use WinPython64-3.7.0.2. Download from [here](https://sourceforge.net/projects/winpython/files/WinPython_3.7/3.7.0.2/WinPython64-3.7.0.2.exe/download) and install in your computer. 
+
+
 ## Learn the basics
 I recommend learning python as if you are learning to swim or to ride a bicycle. No point of reading too many manuals or trying to understand how everything works **before** trying it. Get the essential level of knowlege so that you are not running a risk to your life or others' and just start. There **will** be a time to read manuals and you **will** understand most of the things eventually - but trying from the day one to *do it* is very important.
 
