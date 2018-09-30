@@ -19,5 +19,8 @@ Having said that, you need some go-to place to find basics about a topic once in
     
 ### Data Analysis
 <dl>
-    <dt>Data Analysis in Python </dt> http://www.data-analysis-in-python.org/index.html
+    <dt>Data Analysis in Python - a place for overall guidance </dt> http://www.data-analysis-in-python.org/index.html
+    <dt> Pandas </dt> 
+    This video:  https://www.youtube.com/watch?v=0CFFTJUZ2dc
+    With this material: https://github.com/jonathanrocher/pandas_tutorial 
 </dl>
