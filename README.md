@@ -17,6 +17,10 @@ Having said that, you need some go-to place to find basics about a topic once in
     <dt>
 </dl>
     
+### Lists and Other Collections Types
+<dl>
+    <dt> Python Collections (Arrays)</dt>   https://www.w3schools.com/python/python_lists.asp
+    
 ### Data Analysis
 <dl>
     <dt>Data Analysis in Python - a place for overall guidance </dt> http://www.data-analysis-in-python.org/index.html
