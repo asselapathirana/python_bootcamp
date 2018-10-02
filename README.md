@@ -1,4 +1,4 @@
-# python_bootcamp
+# Python Bootcamp
 Annual 4 day workshop on Python
 
 ## Install python
