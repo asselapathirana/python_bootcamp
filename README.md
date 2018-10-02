@@ -1,4 +1,4 @@
-# python_bootcamp
+# Python Bootcamp
 Annual 4 day workshop on Python
 
 ## Install python
@@ -7,7 +7,7 @@ For 2018 class  We use WinPython64-3.7.0.2. Download from [here](https://sourcef
 
 
 ## Learn the basics
-I recommend learning python as if you are learning to swim or to ride a bicycle. No point of reading too many manuals or trying to understand how everything works **before** trying it. Get the essential level of knowlege so that you are not running a risk to your life or others' and just start. There **will** be a time to read manuals and you **will** understand most of the things eventually - but trying from the day one to *do it* is very important.
+I recommend learning python as if you are learning to swim or to ride a bicycle. No point of reading too many manuals or trying to understand how everything works **before** trying it. Get the essential level of knowlege so that you are not running a risk to your life or others' and **just start doing it**. There **will** be a time to read manuals and you **will** understand most of the things eventually - but trying from the day one to **do it** is very important.
 
 Having said that, you need some go-to place to find basics about a topic once in awhile. Following is a good list: 
 
@@ -16,6 +16,10 @@ Having said that, you need some go-to place to find basics about a topic once in
     <dt>A byte of Python </dt> https://python.swaroopch.com/index.html
     <dt>
 </dl>
+    
+### Lists and Other Collections Types
+<dl>
+    <dt> Python Collections (Arrays)</dt>   https://www.w3schools.com/python/python_lists.asp
     
 ### Data Analysis
 <dl>
