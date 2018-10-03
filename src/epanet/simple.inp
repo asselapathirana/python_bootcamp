@@ -3,18 +3,18 @@
 
 [JUNCTIONS]
 ;ID              	Elev        	Demand      	Pattern         
- 2               	0           	100         	                	;
+ N1              	0           	100         	                	;
 
 [RESERVOIRS]
 ;ID              	Head        	Pattern         
- 1               	500         	                	;
+ R               	500         	                	;
 
 [TANKS]
 ;ID              	Elevation   	InitLevel   	MinLevel    	MaxLevel    	Diameter    	MinVol      	VolCurve
 
 [PIPES]
 ;ID              	Node1           	Node2           	Length      	Diameter    	Roughness   	MinorLoss   	Status
- 1               	1               	2               	10000       	220         	100         	0           	Open  	;
+ P1              	R               	N1              	1000        	220         	100         	0           	Open  	;
 
 [PUMPS]
 ;ID              	Node1           	Node2           	Parameters
@@ -106,8 +106,8 @@
 
 [COORDINATES]
 ;Node            	X-Coord         	Y-Coord
- 2               	1856.32         	5597.70         
- 1               	-3637.93        	8942.53         
+ N1              	1856.32         	5597.70         
+ R               	-3637.93        	8942.53         
 
 [VERTICES]
 ;Link            	X-Coord         	Y-Coord

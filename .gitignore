@@ -1,10 +1,13 @@
+data/*.py
+src/map.html
+src/epanet/epanet_demand.py
+*.net
+src/epanet/tmp*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-data/*.py
-src/map.html
-*.net
 # C extensions
 *.so
 
