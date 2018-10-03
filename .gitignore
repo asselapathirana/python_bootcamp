@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 data/*.py
 src/map.html
-
+*.net
 # C extensions
 *.so
 
