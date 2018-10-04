@@ -11,6 +11,8 @@ Note: This script will take around a minute (or more?) to run. Be paitent when r
 
 """
 import os
+import matplotlib # we need matplotlib for plotting later
+matplotlib.use('Qt5Agg') # Not esential. But QtAgg backend seems to work better for plotting
 from matplotlib import pyplot as plt
 import geopandas
 
