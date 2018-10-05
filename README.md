@@ -20,6 +20,7 @@ Having said that, you need some go-to place to find basics about a topic once in
 ### Lists and Other Collections Types
 <dl>
     <dt> Python Collections (Arrays)</dt>   https://www.w3schools.com/python/python_lists.asp
+    <dt> List comprehensions </dt> https://www.programiz.com/python-programming/list-comprehension
     
 ### Data Analysis
 <dl>
@@ -35,3 +36,9 @@ Having said that, you need some go-to place to find basics about a topic once in
     files: https://github.com/brandon-rhodes/pycon-pandas-tutorial
     <dt> Pandas video tutorial 2</dt> video: https://www.youtube.com/watch?v=0CFFTJUZ2dc </p>
     files: https://github.com/samsalter/PandasExamples- 
+    
+### Running external programes 
+<dl>
+    <dt> Subprocess </dt> https://www.dotnetperls.com/subprocess-python
+</dl>
+    
