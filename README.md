@@ -40,7 +40,9 @@ Having said that, you need some go-to place to find basics about a topic once in
 
 ### Mapping & GIS
 <dl> 
+    <dt> Geopandas </dt> http://geopandas.org/index.html
     <dt> Cartopy </dt> https://scitools.org.uk/cartopy/docs/v0.15/index.html
+    
  </dl>
 
 ### Running external programes 
