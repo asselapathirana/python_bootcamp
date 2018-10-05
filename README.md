@@ -30,13 +30,19 @@ Having said that, you need some go-to place to find basics about a topic once in
     With this material: https://github.com/jonathanrocher/pandas_tutorial 
 </dl>
 
+
 ### Pandas for Data Analysis
 <dl>
     <dt> Pandas video tutorial 1</dt> video: https://www.youtube.com/watch?v=5JnMutdy6Fw </p>  
     files: https://github.com/brandon-rhodes/pycon-pandas-tutorial
     <dt> Pandas video tutorial 2</dt> video: https://www.youtube.com/watch?v=0CFFTJUZ2dc </p>
     files: https://github.com/samsalter/PandasExamples- 
-    
+
+### Mapping & GIS
+<dl> 
+    <dt> Cartopy </dt> https://scitools.org.uk/cartopy/docs/v0.15/index.html
+ </dl>
+
 ### Running external programes 
 <dl>
     <dt> Subprocess </dt> https://www.dotnetperls.com/subprocess-python
